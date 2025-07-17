@@ -43,7 +43,7 @@ const Login = () => {
 
       <div className="login-container">
         <div className="illustration">
-          <img src="./images/logo.png" alt="Login SVG" />
+          <img src="https://imgs.search.brave.com/PLI7dMnn3okwdx3cnjGMk6eDKq_1sTSZG33kqGJAZ2o/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/aWNvbnNjb3V0LmNv/bS9pY29uL3ByZW1p/dW0vcG5nLTI1Ni10/aHVtYi9ibG9vZC1i/YW5rLTE1OTM4MTIt/MTM0ODc3MS5wbmc_/Zj13ZWJwJnc9MTI4" alt="Login SVG" />
         </div>
         <form className="login-box" onSubmit={handleSubmit}>
           <h2>Welcome Back</h2>
