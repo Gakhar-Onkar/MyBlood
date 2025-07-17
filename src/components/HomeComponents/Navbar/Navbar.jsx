@@ -10,7 +10,7 @@ const Navbar = () => {
     
 <div className="Navbar">
         <div className="logo" onClick={() => navigate('/')}>
-        <img src="../images/logo.png" alt=""  ></img>
+        <img src="https://imgs.search.brave.com/PLI7dMnn3okwdx3cnjGMk6eDKq_1sTSZG33kqGJAZ2o/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/aWNvbnNjb3V0LmNv/bS9pY29uL3ByZW1p/dW0vcG5nLTI1Ni10/aHVtYi9ibG9vZC1i/YW5rLTE1OTM4MTIt/MTM0ODc3MS5wbmc_/Zj13ZWJwJnc9MTI4" alt=""  ></img>
         <div className='logotitle' >MyBlood</div>
         </div>
 
